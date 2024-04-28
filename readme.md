@@ -1,5 +1,5 @@
-# Watcher is an AI System that Helps Parents monitor children
-
+# Watcher 
+Watcher is an AI System that Helps Parents monitor children
 
 ### Problem statement
 With life becoming busier and more complex, parents often find themselves spending more time at work, leaving them concerned about their kids' safety, especially when they're home alone. Our project, Watcher, aims to address this issue by creating a system that detects potential dangers and promptly alerts parents. The questions we sought to answer were:
